@@ -1,0 +1,31 @@
+<resources>
+    <!-- Primary Theme Colors -->
+    <color name="primary">#D32F2F</color> <!-- Deep Red -->
+    <color name="primary_variant">#B71C1C</color>
+    <color name="on_primary">#FFFFFF</color>
+
+    <color name="secondary">#FFC107</color> <!-- Amber -->
+    <color name="secondary_variant">#FFA000</color>
+    <color name="on_secondary">#000000</color>
+
+    <!-- Background and Surface -->
+    <color name="background">#FFFFFF</color>
+    <color name="surface">#F5F5F5</color>
+    <color name="on_surface">#212121</color>
+
+    <!-- Text and Icons -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="icon_tint">#424242</color>
+
+    <!-- Status / Alerts -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+
+    <!-- Divider / Border -->
+    <color name="divider">#BDBDBD</color>
+
+    <!-- Overlay Shadow -->
+    <color name="overlay_shadow">#80000000</color> <!-- 50% black -->
+</resources>

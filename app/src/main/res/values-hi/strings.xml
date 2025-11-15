@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">रेस्टोरेंट ऐप</string>
+    <string name="top_dishes">लोकप्रिय व्यंजन</string>
+    <string name="go_to_cart">कार्ट पर जाएं</string>
+    <string name="language">भाषा</string>
+    <string name="language_english">अंग्रेज़ी</string>
+    <string name="language_hindi">हिंदी</string>
+    <string name="cart">कार्ट</string>
+    <string name="place_order">ऑर्डर करें</string>
+    <string name="net_total">कुल योग</string>
+    <string name="cgst">सीजीएसटी (2.5%)</string>
+    <string name="sgst">एसजीएसटी (2.5%)</string>
+    <string name="grand_total">कुल राशि</string>
+    <string name="no_items">कार्ट में कोई आइटम नहीं है</string>
+    <string name="cuisine">व्यंजन</string>
+    <string name="add">जोड़ें</string>
+    <string name="remove">हटाएं</string>
+</resources>

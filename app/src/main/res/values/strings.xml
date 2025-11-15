@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Restaurant App</string>
+    <string name="top_dishes">Top Dishes</string>
+    <string name="go_to_cart">Go to Cart</string>
+    <string name="language">Language</string>
+    <string name="language_english">EN</string>
+    <string name="language_hindi">HI</string>
+    <string name="cart">Cart</string>
+    <string name="place_order">Place Order</string>
+    <string name="net_total">Net Total</string>
+    <string name="cgst">CGST (2.5%)</string>
+    <string name="sgst">SGST (2.5%)</string>
+    <string name="grand_total">Grand Total</string>
+    <string name="no_items">No items in cart</string>
+    <string name="cuisine">Cuisine</string>
+    <string name="add">Add</string>
+    <string name="remove">Remove</string>
+</resources>
